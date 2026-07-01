@@ -1,0 +1,296 @@
+canonical_identifier: bkk:krp/KR6j0060/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0060/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大悲空智金剛大教王儀軌經
+  identifiers:
+    krp: KR6j0060
+    cbeta: T18n0892
+    cbeta_old_id: T18n0892
+    authorityid: CA0000558
+    json_key: T0892
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0892.xml
+    old_id: T18n0892
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0060_000-T.yaml, hash: 'sha256:5142f5e7a4209b9ff61bfd576de436ad85461e3cb37b2acb914cdf4eb3672e59'}
+  - {seq: 1, filename: KR6j0060_001-T.yaml, hash: 'sha256:6ec1c5578b7570f0040fca6e2f1bcd2fde2d04f7d8262d909b95e4ec6282080e'}
+  - {seq: 2, filename: KR6j0060_002-T.yaml, hash: 'sha256:1f86d812c6886bfad5a2cfd69bbee2a6083ea9ba00d4b5f27dc7a1da46c9802b'}
+  - {seq: 3, filename: KR6j0060_003-T.yaml, hash: 'sha256:9030d4ac479a2ca8a14d77fa9b624241fb8d21caad5814db248347b2a2bf1f97'}
+  - {seq: 4, filename: KR6j0060_004-T.yaml, hash: 'sha256:2b306c7a4969f838480b03aff826110e5fbae3c3d685d136bfa4810c006ffe7a'}
+  - {seq: 5, filename: KR6j0060_005-T.yaml, hash: 'sha256:ffcf68775f19303aa29b878aacf96ef55e5123b7a9afbc1e2d6ca5aaf254a0f9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0060_000-T.markers.yaml, hash: 'sha256:4123b3bda11087a68acde23c285a543373c3c3a1f7e10f5682f1a3d40c7025e8'}
+  - {seq: 1, role: markers, filename: assets/KR6j0060_001-T.markers.yaml, hash: 'sha256:e69ff93db5db20d4b84ff47edbf9d085d4bb224949aa6404d1b244e305c4f132'}
+  - {seq: 2, role: markers, filename: assets/KR6j0060_002-T.markers.yaml, hash: 'sha256:381efcf876a066c0caf383eeca2632088ad708a81ee708fc69a9a3c658f6a08b'}
+  - {seq: 3, role: markers, filename: assets/KR6j0060_003-T.markers.yaml, hash: 'sha256:a8a062f283cc4e3662410ec0c82c0463d56a38c08922414c9ed587162a862a46'}
+  - {seq: 4, role: markers, filename: assets/KR6j0060_004-T.markers.yaml, hash: 'sha256:e63f9266a512d5d40869949acaf5a01b7fc0c9e76c2c38ea707e13946e98da0e'}
+  - {seq: 5, role: markers, filename: assets/KR6j0060_005-T.markers.yaml, hash: 'sha256:48ec8f2520dbb5a5031017dee08e29f75ffaa840f0bdfc3bca7ec17b017b2751'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0060_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3932
+  label: '佛說大悲空智金剛大教王儀軌
+
+    經卷第一大幻化普通儀軌三十一分中略出二無我法'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0060_T_001-mulu-1
+    span:
+    - body
+    - 28
+    - 28
+  label: 1 金剛部序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0060_T_001-mulu-2
+    span:
+    - body
+    - 994
+    - 994
+  label: 2 拏吉尼熾盛威儀真言品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0060_T_001-mulu-3
+    span:
+    - body
+    - 2725
+    - 2725
+  label: 3 一切如來身語心聖賢品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0060_T_001-mulu-4
+    span:
+    - body
+    - 3282
+    - 3282
+  label: 4 賢聖灌頂部品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0060_T_001-mulu-5
+    span:
+    - body
+    - 3416
+    - 3416
+  label: 5 大真實品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0060_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4142
+  label: '佛說大悲空智金剛大教王儀軌
+
+    經卷第二第三同卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0060_T_002-mulu-1
+    span:
+    - body
+    - 28
+    - 28
+  label: 6 行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0060_T_002-mulu-2
+    span:
+    - body
+    - 788
+    - 788
+  label: 7 說密印品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0060_T_002-mulu-3
+    span:
+    - body
+    - 1455
+    - 1455
+  label: 8 大相應輪品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0060_T_002-mulu-4
+    span:
+    - body
+    - 2749
+    - 2749
+  label: 9 清淨品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0060_T_002-mulu-5
+    span:
+    - body
+    - 3282
+    - 3282
+  label: 10 灌頂品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0060_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 2987
+  label: '佛說大悲空智金剛大教王儀軌
+
+    經卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0060_T_003-mulu-1
+    span:
+    - body
+    - 26
+    - 26
+  label: 11 金剛藏菩薩現證儀軌王品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0060_T_003-mulu-2
+    span:
+    - body
+    - 916
+    - 916
+  label: 12 熾盛拏吉尼所說成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0060_T_003-mulu-3
+    span:
+    - body
+    - 2173
+    - 2173
+  label: 13 說方便品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0060_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 3586
+  label: '佛說大悲空智金剛大教王儀軌
+
+    經卷第四第五同卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0060_T_004-mulu-1
+    span:
+    - body
+    - 800
+    - 800
+  label: 14 集一切儀軌部品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0060_T_004-mulu-2
+    span:
+    - body
+    - 2745
+    - 2745
+  label: 15 金剛王出現品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0060_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 2919
+  label: '佛說大悲空智金剛大教王儀軌
+
+    經卷第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0060_T_005-mulu-1
+    span:
+    - body
+    - 1137
+    - 1137
+  label: 16 金剛空智熾盛拏吉尼畫像儀式品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0060_T_005-mulu-2
+    span:
+    - body
+    - 1425
+    - 1425
+  label: 17 飲食品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0060_T_005-mulu-3
+    span:
+    - body
+    - 1687
+    - 1687
+  label: 18 教授品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0060_T_005-mulu-4
+    span:
+    - body
+    - 2227
+    - 2227
+  label: 19 持念品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0060_T_005-mulu-5
+    span:
+    - body
+    - 2361
+    - 2361
+  label: 20 俱生義品
+  type: mulu
+  level: 1
+hash: sha256:1c25205aa19598c4cab2520eec6ea80d4c4db4f4a5fabf95066086c123dcafe3
